@@ -1,3 +1,30 @@
+# coding_demo_open_library
+coding_demo_open_library
+
+Demonstration of node and javascript skills.  
+
+Accesses Open library public API to list and search for books in their database.
+
+# install
+
+git clone https://github.com/lancer278/coding_demo_open_library
+yarn install
+
+# to run dev
+
+yarn dev
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2443,3 +2470,12 @@ In the future, we might start automatically compiling incompatible third-party m
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 # coding_demo_open_library
+
+
+
+# attributions
+Thanks to these two coders for some inspiration
+- [clouds](http://cssdeck.com/labs/animated-clouds-background-pure-css3)
+- [bunny](https://codepen.io/katydecorah/pen/uIEFy)
+
+
